@@ -1,6 +1,6 @@
-### Oii, bem vindo!! Eu sou o Guilherme Vizzotto
+### Fala ai, tranquilo? Guilherme Vizzotto aqui, seja muito bem vindo!
 
-- 🔭 Ainda não trabalho na área.
+- 🔭 Estagiário em Desenvolvimento de Sistemas. 
 - 🌱 Estudando JavaScript.
 
 <div style="display: inline_block"><br>
