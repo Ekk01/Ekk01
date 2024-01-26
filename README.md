@@ -1,6 +1,6 @@
 ### Fala ai, tranquilo? Guilherme Vizzotto aqui, seja muito bem vindo!
 
-- 🔭 Estagiário em Desenvolvimento de Sistemas. 
+- 🔭 Estagiário na Ivee Digital Tech.
 - 🌱 Estudando ServiceNow, JavaScript e C#.
 
 <div style="display: inline_block"><br>
